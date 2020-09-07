@@ -1,0 +1,50 @@
+.but{
+    margin-top:2em;
+    margin-left:3em;
+    
+}
+
+.h{
+    padding-top: 3em;
+    padding-left:5em;
+}
+
+
+
+.menimg {
+    background-image: url('./img/man.jpg');
+    padding-bottom: 15em;
+    padding-top: 15em;
+    
+}
+
+.womenimg {
+    background-image: url('./img/woman.jpg');
+    padding-bottom: 15em;
+    padding-top: 15em;
+}
+
+.kidimg {
+    background-image: url('./img/kid.jpg');
+    padding-bottom: 15em;
+    padding-top: 15em;
+}
+
+.men{
+    padding-top: 5em;
+}
+
+.women {
+    padding-top: 5em;
+}
+.kid {
+    padding-top: 5em;
+}
+.title {
+    margin: 3em 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    color: rgba(0, 0, 0, 0.8);
+    text-transform: uppercase;
+    text-align: center;
+}

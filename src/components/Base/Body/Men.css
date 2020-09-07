@@ -1,0 +1,33 @@
+.item {
+    height: 30em;
+    width: 20em;
+    font-family: 'Quicksand', sans-serif;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: .5em;
+    padding: 1em;
+}
+
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.items-title {
+    text-align: center;
+}
+
+img {
+    height: 20em;
+}
+
+#product-name {
+    border-top: 1px solid lightgrey;
+    padding: 1em ;
+    font-size: 1.5em;
+    font-family: 'Lato', sans-serif;
+    margin: .5em 0;
+}
